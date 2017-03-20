@@ -1,0 +1,96 @@
+
+{
+"CreditCards":[
+{
+"name":"The Platinum Card® from American Express",
+"instruction1":"Earn 40,000 Membership Rewards® points after you use your new Card to make $3,000 in purchases in your first 3 months.",
+"instruction2":"5X points for flights booked directly with airlines or with American Express Travel.",
+"PurchaseIntroAPR":"N/A",
+"balanceTransfersIntroAPR":"N/A",
+"regularAPR":"N/A",
+"AnnualFee":"$450"
+},
+{
+"name":"Citi® Hilton HHonors™ Visa Signature® Card",
+"instruction1":"Earn 75,000 Hilton HHonors™ Bonus Points after making $2,000 in purchases within the first 3 months of account opening*",
+"instruction2":"Earn 6 HHonors Bonus Points for each $1 spent at any participating hotel within the Hilton Portfolio.*",
+"PurchaseIntroAPR":"N/A",
+"balanceTransfersIntroAPR":"N/A",
+"regularAPR":"15.74% - 19.74%* (Variable)",
+"AnnualFee":"None"
+},
+{
+"name":"Gold Delta SkyMiles® Business Credit Card from American Express",
+"instruction1":"Make business travel more rewarding. Earn 30,000 bonus miles after you make $1,000 in purchases on your new Card within your first 3 months.",
+"instruction2":"Additionally, earn a $50 statement credit after you make a Delta purchase with your new Card within your first 3 months.",
+"PurchaseIntroAPR":"N/A",
+"balanceTransfersIntroAPR":"N/A",
+"regularAPR":"15.74% - 19.74% Variable",
+"AnnualFee":"$0 introductory annual fee for the first year, then $95"
+},
+{
+"name":"AAA Member Rewards Visa® Credit Card",
+"instruction1":"Receive a $100 statement credit when you make at least $500 in purchases within the first 90 days.",
+"instruction2":"3X points = 3% cash back — Earn 3 points for every $1 spent on qualifying travel and AAA purchases.",
+"PurchaseIntroAPR":"N/A",
+"balanceTransfersIntroAPR":"0% Intro APR for the first 12 billing cycles for balance transfers made in the first 60 days",
+"regularAPR":"13.49% to 23.49% Variable APR on purchases and balance transfers",
+"AnnualFee":"$0"
+},
+{
+"name":"JetBlue Card",
+"instruction1":"Earn 5,000 bonus points after you spend $1,000 on purchases in the first 90 days.",
+"instruction2":"Earn 3 points per $1 on JetBlue purchases, 2 points per $1 at restaurants and grocery stores and 1 point per $1 on all other purchases.",
+"PurchaseIntroAPR":"N/A",
+"balanceTransfersIntroAPR":"0% introductory APR for First 12 billing cycles following each balance transfer that posts to account within 45 days of acco",
+"regularAPR":"12.49%, 20.49% or 25.49% Variable",
+"AnnualFee":"$0"
+},
+{
+"name":"Blue Cash Preferred® Card from American Express",
+"instruction1":"Limited Time Offer: Apply by 5/3/17 – Earn 10% cash back on purchases at U.S. Restaurants in the first 6 months, up to $200 back.",
+"instruction2":"Plus, earn $150 back after you spend $1,000 in purchases on your new Card within the first 3 months.",
+"PurchaseIntroAPR":"0% for 12 months",
+"balanceTransfersIntroAPR":"0% for 12 months",
+"regularAPR":"13.49%-23.49% Variable",
+"AnnualFee":"$95"
+},
+{
+"name":"NHL® Discover it® Card",
+"instruction1":"Choose your favorite team & show your pride –all 30 teams available. Save 10% at Shop.NHL.com and NHL.TV™.",
+"instruction2":"Get a dollar-for-dollar match of all the cash back you've earned at the end of your first year, automatically.",
+"PurchaseIntroAPR":"0% for 14 months",
+"balanceTransfersIntroAPR":"0% for 14 months",
+"regularAPR":"11.49% - 23.49% Variable",
+"AnnualFee":"$0"
+},
+{
+"name":"Amtrak Guest Rewards® World Mastercard®",
+"instruction1":"Get 20,000 bonus points after you make at least $1,000 in purchases with your new card within 90 days of account opening",
+"instruction2":"Earn 3 Amtrak Guest Rewards points for every $1 you spend with Amtrak®, including travel and onboard purchases",
+"PurchaseIntroAPR":"N/A",
+"balanceTransfersIntroAPR":"N/A",
+"regularAPR":"13.49% - 23.49% Variable APR on purchases and balance transfers",
+"AnnualFee":"$79"
+},
+{
+"name":"BuyPower Card from Capital One®",
+"instruction1":"5% Earnings on your first $5,000 in purchases every year. Unlimited 2% Earnings on every purchase after that. Redeem Earnings toward the purchase or lease of a new Chevrolet, Buick, GMC or Cadillac vehicle.",
+"instruction2":"No annual fee, no redemption limits, no Earnings expiration, no foreign transaction fees. Save even more when you combine your available Earnings with most current GM offers and incentives.",
+"PurchaseIntroAPR":"0% for 12 months",
+"balanceTransfersIntroAPR":"N/A",
+"regularAPR":"13.40% - 23.40% (V)",
+"AnnualFee":"$0"
+},
+{
+"name":"The Business Platinum® Card from American Express OPEN",
+"instruction1":"Welcome Offer: Earn up to 75,000 Membership Rewards® points.",
+"instruction2":"Earn 50,000 Membership Rewards points after you spend $10,000 and an extra 25,000 points after you spend an additional $10,000 all on qualifying purchases within your first 3 months of Card Membership.",
+"PurchaseIntroAPR":"N/A",
+"balanceTransfersIntroAPR":"N/A",
+"regularAPR":"N/A",
+"AnnualFee":"$450"
+}
+]
+}
+Visuals enabled
