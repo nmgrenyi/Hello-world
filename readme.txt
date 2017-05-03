@@ -7,3 +7,4 @@ Git has a mutable index called stage
 Creating a new branch is quick AND simple
 
 May 3 10:56am, try push
+May 3 10:58am, try pull
